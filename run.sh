@@ -25,3 +25,7 @@ bypass() {
     fi
   done
 }
+
+bypass
+tar -cf $4 $backup
+echo "done"
