@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../A/index.h
+
+../B/lib.h
+
+/home/mamacheli/Рабочий стол/ТП/TP/C/main.cpp
+main.h
+/home/mamacheli/Рабочий стол/ТП/TP/C/main.h
+iostream
+-
+
+/home/mamacheli/Рабочий стол/ТП/TP/C/main.h
+A/index.h
+/home/mamacheli/Рабочий стол/ТП/TP/C/A/index.h
+B/lib.h
+/home/mamacheli/Рабочий стол/ТП/TP/C/B/lib.h
+

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mamacheli/Рабочий стол/ТП/TP/B/lib.cpp
+lib.h
+/home/mamacheli/Рабочий стол/ТП/TP/B/lib.h
+
+/home/mamacheli/Рабочий стол/ТП/TP/B/lib.h
+

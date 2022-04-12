@@ -1,0 +1,6 @@
+/home/mamacheli/Рабочий стол/ТП/TP/build/CMakeFiles/rebuild_cache.dir
+/home/mamacheli/Рабочий стол/ТП/TP/build/CMakeFiles/edit_cache.dir
+/home/mamacheli/Рабочий стол/ТП/TP/build/CMakeFiles/C.dir
+/home/mamacheli/Рабочий стол/ТП/TP/lib/CMakeFiles/rebuild_cache.dir
+/home/mamacheli/Рабочий стол/ТП/TP/lib/CMakeFiles/edit_cache.dir
+/home/mamacheli/Рабочий стол/ТП/TP/lib/CMakeFiles/lib.dir
